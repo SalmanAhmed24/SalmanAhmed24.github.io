@@ -21,10 +21,10 @@
   text-align: center;
 }
 .cus-btn{
-background-color: #FFC0CB !important;
+background-color: #1F2024 !important;
 }
 .cus-btn:hover{
-  background-color: #1F2024 !important;
+  background-color: #1F2028 !important;
 }
 .col-md-3:hover .overlay {
   opacity: 1;
