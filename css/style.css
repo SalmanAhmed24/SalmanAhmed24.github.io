@@ -20,6 +20,9 @@
   padding: 20px;
   text-align: center;
 }
+.cus-btn{
+background-color: #1f2024;
+}
 .cus-btn:hover{
   background-color: #1f2024 !important;
 }
