@@ -31,8 +31,12 @@
   background-color: #F14258;
   cursor: pointer;
 }
-.grow{
-  display: none;
+.ho:hover{
+  opacity: 0.5;
+  cursor: pointer;
+}
+.cus-div{
+  padding: 10px 0px;
 }
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
